@@ -6,5 +6,6 @@ public class hellow {
 		System.out.println("hello");
 		System.out.println("다시 첫번째 커밋");
 		System.out.println("두번째 커밋");
+		System.out.println("내가수정했따");
 	}
 }
